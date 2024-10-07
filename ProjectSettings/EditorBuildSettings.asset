@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/JazzHands.unity
+    guid: b79b3c839de53f04db2501a0777390ec
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b591aa81b886ab4d9da6e7454272627,
       type: 2}
